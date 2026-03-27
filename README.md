@@ -42,5 +42,4 @@ vsearch --threads 4 --sintax temp/16s.fasta --db temp/MIDORI2_UNIQ_NUC_GB269_lrR
 # process results
 scripts/16s-process-results.R
 
-
 ```
